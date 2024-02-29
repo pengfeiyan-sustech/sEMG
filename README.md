@@ -2,7 +2,7 @@
 
 NinaPro数据下载链接：https://ninapro.hevs.ch/index.html
 
-预处理：
+预处理（参考https://github.com/malele4th/sEMG_DeepLearning）：
 
 1. 运行 getData.py 得到要用的原始数据
 2. 运行 featureUtils.py 进行数据滑窗分割
